@@ -569,7 +569,7 @@ var data = []byte(`{
         "angel",
         "demon",
         "frog",
-        "iron".
+        "iron",
         "heaven",
         "hell",
         "lusty",
